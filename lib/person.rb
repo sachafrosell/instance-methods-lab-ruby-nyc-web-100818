@@ -1,5 +1,5 @@
 class Person 
   def talk 
-    "The "
+    puts "The Person is walking"
   end 
 end 
